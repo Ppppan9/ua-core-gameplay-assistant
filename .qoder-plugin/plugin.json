@@ -1,0 +1,7 @@
+{
+  "name": "ua-core-gameplay-assistant",
+  "version": "0.1.1",
+  "description": "买量游戏核玩助手：麻将消除、打螺丝、咖啡分拣、方块射击、祖玛、拔钉救人、箭头挪出、体素射击、圆环传送带 9 类广告核玩的规则知识库与核玩工具通用规范。",
+  "author": { "name": "Ppppan9" },
+  "keywords": ["qoder-plugin", "playable-ads", "core-gameplay", "game-toolkit"]
+}
